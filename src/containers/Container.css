@@ -1,0 +1,14 @@
+.Container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Products {
+    border: 2px solid #ccc;
+    width: 45%;
+}
+
+.Cart {
+    border: 2px solid #ccc;
+    width: 45%;
+}
